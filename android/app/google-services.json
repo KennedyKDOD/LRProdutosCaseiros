@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "95878586581",
+    "project_id": "lr-produtos-caseiros",
+    "storage_bucket": "lr-produtos-caseiros.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:95878586581:android:70ca131a08cb757bf2c25c",
+        "android_client_info": {
+          "package_name": "com.lrprodutoscaseiros"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB10AGKmkrTR3WArcBSxIQcp9T1zOf_rew"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
